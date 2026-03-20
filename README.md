@@ -1,6 +1,6 @@
 ## 👋 Hello everyone
 
-I’m **Shree Charan**, a Computer Science undergraduate specializing in **Cyber Security and Digital Forensics** at VIT Bhopal (CGPA: 8.7).
+I’m **Shree Charan**, a Computer Science undergraduate specializing in **Cyber Security and Digital Forensics** at VIT Bhopal .
 
 ---
 
